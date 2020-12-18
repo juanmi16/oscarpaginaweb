@@ -1,0 +1,154 @@
+/*Elementos del cuerpo*/
+
+body{
+    
+    background-image: url(imagenes/Zona%20De%20Los%20Santos.png)
+    
+}
+
+
+a,
+a:focus,
+a:hover {
+  color: #8db596 !important;
+}
+
+
+
+a{
+    
+    color:#fff !important;
+    
+    
+}
+
+
+h1{
+    
+    color: #fff;
+    
+}
+
+
+.huhu{
+    
+    
+    color:#fff;
+    font-size: 2rem;
+    font-family: 'Amatic SC', cursive;
+}
+
+/*Elementos de barra de navegación*/
+
+.dropdown-menu{
+    
+    color: black !important;
+    
+    
+}
+
+
+.dropdown-item{
+    
+    color: black !important;
+    
+    
+    
+}
+
+.navbar{
+    
+    
+    font-family: 'Amatic SC', cursive;
+    font-size: 1.5rem;
+    color: white;
+    
+    
+}
+
+
+
+.bg-company-red{
+    
+    background-color: transparent !important;
+    
+}
+
+
+
+
+
+
+
+/*Logo o escritura de la barra de navegación*/
+.navbar-brand{
+    
+    font-family: 'Amatic SC', cursive;
+    line-height: 1.5;
+    font-size: 1.5rem;
+    
+    
+    
+    
+    
+    
+}
+
+
+
+/*Estilos del medio de la pagina*/
+
+
+
+#medio{
+    
+    text-align: center;
+    
+    
+}
+
+
+
+.santos{
+    
+    width: 50%;
+    
+    
+    
+}
+
+.juju{
+    
+    
+    
+    
+    
+}
+
+
+
+.linea{
+    
+    color: #fff;
+    
+}
+/*Footer de la pagina*/
+
+
+#abajo{
+    
+    
+    text-align: center;
+    margin-top: 12%;
+    
+}
+
+
+.fut{
+    
+    color: #fff;
+    font-family: 'Amatic SC', cursive;
+    font-size: 1.5rem;
+    color: white;
+    
+}

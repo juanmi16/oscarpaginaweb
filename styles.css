@@ -1,0 +1,38 @@
+/*Componentes de la barra de navegación*/
+
+.navbar{
+    
+    
+    font-family: 'Amatic SC', cursive;
+    font-size: 1.5rem;
+    color: white;
+    
+    
+}
+
+
+
+.bg-company-red{
+    
+    background-color: #8db596 !important;
+    
+}
+
+
+
+
+
+
+
+/*Logo o escritura de la barra de navegación*/
+.navbar-brand{
+    
+    font-family: 'Amatic SC', cursive;
+    line-height: 1.5;
+    
+    
+    
+    
+    
+    
+}
